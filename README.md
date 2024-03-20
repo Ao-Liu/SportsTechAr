@@ -14,6 +14,10 @@ To create an emulator in Android Studio, follow these steps:
 4. For the system image, select a release with API level 31 (S).
 5. Click "Finish" to create the virtual device.
 
+## Running the Application
+
+To run the application, click on the green arrow located at the top right corner of Android Studio.
+
 ## Augmented Reality (AR) Library Setup
 
-To launch an app that utilizes AR features, your emulator will need the AR library. Follow the instructions in the popup within Android Studio to set up the AR library on your emulator.
+To use an app that utilizes AR features, your emulator will need the AR library. Follow the instructions in the popup to set up the AR library on your emulator.
